@@ -5,4 +5,6 @@
   * [记一次Unity2020导出工程XCode上传错误处理](/ProjectDocs/iOS/记一次Unity2020导出工程XCode上传错误处理.md)
 * Unity
   * [Unity 2019 适配指南](/ProjectDocs/Unity/Unity%202019%20%E9%80%82%E9%85%8D%E6%8C%87%E5%8D%97.md)
+  * [Unity集成AppLovin](/ProjectDocs/Unity/Unity集成AppLovin.md)
+  * [Unity如何往XCode的PlistInfo中加字段](/ProjectDocs/Unity/Unity如何往XCode的PlistInfo中加字段.md)
 
